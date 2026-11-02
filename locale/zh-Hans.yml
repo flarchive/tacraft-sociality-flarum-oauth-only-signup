@@ -1,0 +1,4 @@
+tacraft-sociality-oauth-only-signup:
+  admin:
+    hint_label: 登录页提示
+    hint_help: 显示在登录弹窗底部的一段文字。留空则不显示。

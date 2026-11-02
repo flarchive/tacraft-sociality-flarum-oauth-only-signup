@@ -1,0 +1,45 @@
+{
+    "name": "tacraft-sociality/flarum-oauth-only-signup",
+    "description": "Closes email/password registration: new accounts can only be created through an OAuth provider, while existing accounts keep logging in with their email and password.",
+    "keywords": [
+        "flarum",
+        "signup",
+        "registration",
+        "oauth",
+        "login"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3",
+        "flarum/core": "^2.0.2"
+    },
+    "authors": [
+        {
+            "name": "TCS Dev HUB",
+            "email": "notify@mail.mctcs.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TacraftSociality\\OauthOnlySignup\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "OAuth Only Signup",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-user-lock",
+                "color": "#4a90d9",
+                "backgroundColor": "#fff"
+            }
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

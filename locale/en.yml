@@ -1,0 +1,4 @@
+tacraft-sociality-oauth-only-signup:
+  admin:
+    hint_label: Login page hint
+    hint_help: Text shown at the bottom of the login modal. Leave empty to hide it.
