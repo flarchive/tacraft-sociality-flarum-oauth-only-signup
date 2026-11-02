@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of tacraft-sociality/flarum-oauth-only-signup.** Not for installation: use [Packagist](https://packagist.org/packages/tacraft-sociality/flarum-oauth-only-signup) or the [upstream repository](https://github.com/TaCraft-Sociality/flarum-oauth-only-signup).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/tacraft-sociality-flarum-oauth-only-signup/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0.2`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/tacraft-sociality-flarum-oauth-only-signup/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-11-02 | `^2.0.2` | [Browse](https://github.com/flarchive/tacraft-sociality-flarum-oauth-only-signup/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/tacraft-sociality-flarum-oauth-only-signup.json](https://github.com/flarchive/archive-index/blob/main/packages/tacraft-sociality-flarum-oauth-only-signup.json)
 
